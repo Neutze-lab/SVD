@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 #
 # Copyright © 2020 UNIVERSITY OF GOTHENBURG
 #                  Department of Chemistry and Molecular Biology
