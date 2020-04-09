@@ -1,9 +1,9 @@
-#!/usr/bin/env python3
-##################################################
+#!/usr/bin/python
 #
-# (c) 2020 Adams Vallejos <adams.vallejos@gu.se>
-#
-##################################################
+# Copyright © 2020 UNIVERSITY OF GOTHENBURG
+#                  Department of Chemistry and Molecular Biology
+# Copyright © 2020 Adams Vallejos <adams.vallejos@gu.se>
+# 
 import shutil
 import mrcfile
 import sys
